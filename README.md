@@ -1,6 +1,6 @@
 # data_spliter
 
-Splite your excel or txt database to multi csv files
+Split excel or txt big file into multi csv files
 
 to Run 
 
